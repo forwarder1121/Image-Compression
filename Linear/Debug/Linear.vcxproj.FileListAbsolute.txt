@@ -1,0 +1,2 @@
+C:\Users\USER\source\repos\Linear\Debug\Linear.exe
+C:\Users\USER\source\repos\Linear\Debug\Linear.pdb
